@@ -1,13 +1,6 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fhipwallpaper.com%2Fprofessional-graphics-backgrounds&psig=AOvVaw37DvEtm8lNKFblrVRXhrQJ&ust=1587729667067000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjwwI3A_ugCFQAAAAAdAAAAABAD");
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }

@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Technology",
+            "blogTitle" : "Techtainment",
+            "slug": "geeks",
+            "postedOn": "January, 2020",
+            "author": "Kritik",
+            "blogImage": "fitness-blog-post.jpg",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit nisi. Cras accumsan fermentum rhoncus. Mauris dapibus euismod ante vitae fringilla. Maecenas consequat ultricies nisi eget malesuada. In fringilla, odio nec facilisis sagittis, erat leo interdum nulla, in malesuada elit ex eu est. Vestibulum maximus mi ullamcorper neque vehicula scelerisque. Etiam eu ante cursus, vestibulum ligula quis, ultricies risus. Morbi blandit eu sem ut commodo. Cras non turpis dolor. Quisque faucibus vitae lorem eget ultricies. Aenean mattis erat ac finibus bibendum. Maecenas egestas vehicula pharetra. Aliquam hendrerit ullamcorper rhoncus. Fusce massa leo, auctor eget enim euismod, placerat egestas urna. Donec sit amet sagittis lacus. Aliquam hendrerit a diam eget volutpat. Etiam convallis ligula id urna mollis, vitae vestibulum tellus consectetur. Donec congue lorem turpis, interdum ultricies metus fermentum vel. Maecenas est nulla, auctor ac nisl ac, vestibulum dignissim mi. Aliquam posuere mollis purus at bibendum. Duis porttitor molestie ex. Proin in metus quis orci vestibulum vehicula a vel augue."
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Business",
+            "blogTitle": "Business ",
+            "slug": "beautiful-and-special-moment",
+            "postedOn": "February, 2020",
+            "author": "Kritik",
+            "blogImage": "beautiful-&-simple.jpg",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit nisi. Cras accumsan fermentum rhoncus. Mauris dapibus euismod ante vitae fringilla. Maecenas consequat ultricies nisi eget malesuada. In fringilla, odio nec facilisis sagittis, erat leo interdum nulla, in malesuada elit ex eu est. Vestibulum maximus mi ullamcorper neque vehicula scelerisque. Etiam eu ante cursus, vestibulum ligula quis, ultricies risus. Morbi blandit eu sem ut commodo. Cras non turpis dolor. Quisque faucibus vitae lorem eget ultricies. Aenean mattis erat ac finibus bibendum. Maecenas egestas vehicula pharetra. Aliquam hendrerit ullamcorper rhoncus. Fusce massa leo, auctor eget enim euismod, placerat egestas urna. Donec sit amet sagittis lacus. Aliquam hendrerit a diam eget volutpat. Etiam convallis ligula id urna mollis, vitae vestibulum tellus consectetur. Donec congue lorem turpis, interdum ultricies metus fermentum vel. Maecenas est nulla, auctor ac nisl ac, vestibulum dignissim mi. Aliquam posuere mollis purus at bibendum. Duis porttitor molestie ex. Proin in metus quis orci vestibulum vehicula a vel augue."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Science",
+            "blogTitle": "Scientify",
+            "slug": "demystify",
+            "postedOn": "March, 2020",
+            "author": "Kritik",
+            "blogImage": "affection-baby-baby-girl-beautiful-377058.jpg",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit nisi. Cras accumsan fermentum rhoncus. Mauris dapibus euismod ante vitae fringilla. Maecenas consequat ultricies nisi eget malesuada. In fringilla, odio nec facilisis sagittis, erat leo interdum nulla, in malesuada elit ex eu est. Vestibulum maximus mi ullamcorper neque vehicula scelerisque. Etiam eu ante cursus, vestibulum ligula quis, ultricies risus. Morbi blandit eu sem ut commodo. Cras non turpis dolor. Quisque faucibus vitae lorem eget ultricies. Aenean mattis erat ac finibus bibendum. Maecenas egestas vehicula pharetra. Aliquam hendrerit ullamcorper rhoncus. Fusce massa leo, auctor eget enim euismod, placerat egestas urna. Donec sit amet sagittis lacus. Aliquam hendrerit a diam eget volutpat. Etiam convallis ligula id urna mollis, vitae vestibulum tellus consectetur. Donec congue lorem turpis, interdum ultricies metus fermentum vel. Maecenas est nulla, auctor ac nisl ac, vestibulum dignissim mi. Aliquam posuere mollis purus at bibendum. Duis porttitor molestie ex. Proin in metus quis orci vestibulum vehicula a vel augue."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Health",
+            "blogTitle": "Healthy Life",
+            "slug": "sliding-my-way-to-life",
+            "postedOn": "April, 2020",
+            "author": "Kritik",
+            "blogImage": "cestovat-chladny-dno-jednoduchost-2868847.jpg",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit nisi. Cras accumsan fermentum rhoncus. Mauris dapibus euismod ante vitae fringilla. Maecenas consequat ultricies nisi eget malesuada. In fringilla, odio nec facilisis sagittis, erat leo interdum nulla, in malesuada elit ex eu est. Vestibulum maximus mi ullamcorper neque vehicula scelerisque. Etiam eu ante cursus, vestibulum ligula quis, ultricies risus. Morbi blandit eu sem ut commodo. Cras non turpis dolor. Quisque faucibus vitae lorem eget ultricies. Aenean mattis erat ac finibus bibendum. Maecenas egestas vehicula pharetra. Aliquam hendrerit ullamcorper rhoncus. Fusce massa leo, auctor eget enim euismod, placerat egestas urna. Donec sit amet sagittis lacus. Aliquam hendrerit a diam eget volutpat. Etiam convallis ligula id urna mollis, vitae vestibulum tellus consectetur. Donec congue lorem turpis, interdum ultricies metus fermentum vel. Maecenas est nulla, auctor ac nisl ac, vestibulum dignissim mi. Aliquam posuere mollis purus at bibendum. Duis porttitor molestie ex. Proin in metus quis orci vestibulum vehicula a vel augue."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Travel",
+            "blogTitle": "Memories From Last Summer",
+            "slug": "memories-from-last-summer",
+            "postedOn": "May, 2020",
+            "author": "Kritik",
+            "blogImage": "memories-from.jpg",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in elit nisi. Cras accumsan fermentum rhoncus. Mauris dapibus euismod ante vitae fringilla. Maecenas consequat ultricies nisi eget malesuada. In fringilla, odio nec facilisis sagittis, erat leo interdum nulla, in malesuada elit ex eu est. Vestibulum maximus mi ullamcorper neque vehicula scelerisque. Etiam eu ante cursus, vestibulum ligula quis, ultricies risus. Morbi blandit eu sem ut commodo. Cras non turpis dolor. Quisque faucibus vitae lorem eget ultricies. Aenean mattis erat ac finibus bibendum. Maecenas egestas vehicula pharetra. Aliquam hendrerit ullamcorper rhoncus. Fusce massa leo, auctor eget enim euismod, placerat egestas urna. Donec sit amet sagittis lacus. Aliquam hendrerit a diam eget volutpat. Etiam convallis ligula id urna mollis, vitae vestibulum tellus consectetur. Donec congue lorem turpis, interdum ultricies metus fermentum vel. Maecenas est nulla, auctor ac nisl ac, vestibulum dignissim mi. Aliquam posuere mollis purus at bibendum. Duis porttitor molestie ex. Proin in metus quis orci vestibulum vehicula a vel augue."
+        }
+    ]
+}
